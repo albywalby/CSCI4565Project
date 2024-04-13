@@ -6,3 +6,6 @@ Contains Python scripts that will model sayings in ASL
 
 ## models Folder
 Contains OpenSim models of arms that will be used to act out the sayings
+
+## docs Folder
+Contains readings that assisted in creating this project
